@@ -1,5 +1,5 @@
 # **Welcome!**
-I appreciate you viewing and possibly contributing to my project. If you're unsure about anything, [contact me]() or [submit the issue](https://github.com/Paul-Nixon/Website-1/issues). Any form of contributing is welcomed.<br>
+I appreciate you viewing and possibly contributing to my project. If you're unsure about anything, [contact me](https://github.com/Paul-Nixon/Website-1#my-contact-info) or [submit the issue](https://github.com/Paul-Nixon/Website-1/issues). Any form of contributing is welcomed.<br>
 
 Please read this project's CONTRIBUTING policy (you are here), its [LICENSE](https://github.com/Paul-Nixon/Website-1/blob/main/LICENSE.md), and its [README](https://github.com/Paul-Nixon/Website-1/blob/main/README.md).<br></br>
 
